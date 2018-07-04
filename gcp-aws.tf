@@ -2,7 +2,7 @@
 
 provider "google" {
   credentials = ""
-  project     = "avinashgcp"
+  project     = "<PROJECT_NAME>"
    region      = "us-east1"
 }
 
